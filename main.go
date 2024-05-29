@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"io"
-	"lava-farmer/ethereum"
-	"lava-farmer/pkg"
-	"lava-farmer/stark"
+	"Dorlinlava/ethereum"
+	"Dorlinlava/pkg"
+	"Dorlinlava/stark"
 	"os"
 )
 

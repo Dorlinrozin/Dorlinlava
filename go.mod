@@ -1,4 +1,4 @@
-module lava-farmer
+module Dorlinlava
 
 go 1.21.6
 

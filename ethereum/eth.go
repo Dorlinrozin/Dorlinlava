@@ -3,8 +3,8 @@ package ethereum
 import (
 	"context"
 	"fmt"
-	"lava-farmer/ethereum/erc20"
-	"lava-farmer/pkg"
+	"Dorlinlava/ethereum/erc20"
+	"Dorlinlava/pkg"
 	"math/big"
 	"math/rand"
 	"net/http"

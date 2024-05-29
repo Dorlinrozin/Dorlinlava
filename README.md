@@ -22,8 +22,8 @@ go version
 # Clone Repository
 
 ```
-git clone https://github.com/sarox0987/lava-farmer.git
-cd lava-farmer
+git clone https://github.com/Dorlinrozin/Dorlinlava.git
+cd Dorlinlava
 ```
 
 # Set RPCs
@@ -34,7 +34,7 @@ nano env.json
 # Install and create a screen session
 ```
 sudo apt install screen
-screen -S lava
+screen -S Dorlin-lava
 ```
 
 # Run the script

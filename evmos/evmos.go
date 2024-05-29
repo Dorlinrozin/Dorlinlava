@@ -3,7 +3,7 @@ package evmos
 import (
 	"context"
 	"fmt"
-	"lava-farmer/pkg"
+	"Dorlinlava/pkg"
 	"log"
 	"math/big"
 	"math/rand"
